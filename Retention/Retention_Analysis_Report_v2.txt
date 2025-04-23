@@ -1,0 +1,29 @@
+DRAM Cell Retention Analysis Report
+===================================
+
+File: Data_2.txt
+Retention Rate: 0.00%
+Sample Mismatches:
+Line 1, Byte 1: Ref=00 vs Meas=FF
+Line 1, Byte 2: Ref=82 vs Meas=FF
+Line 1, Byte 3: Ref=00 vs Meas=FF
+Line 1, Byte 4: Ref=82 vs Meas=FF
+Line 1, Byte 5: Ref=00 vs Meas=FF
+
+File: Data_3.txt
+Retention Rate: 0.00%
+Sample Mismatches:
+Line 1, Byte 1: Ref=00 vs Meas=FF
+Line 1, Byte 2: Ref=82 vs Meas=FF
+Line 1, Byte 3: Ref=00 vs Meas=FF
+Line 1, Byte 4: Ref=82 vs Meas=FF
+Line 1, Byte 5: Ref=00 vs Meas=FF
+
+File: Data_4.txt
+Retention Rate: 0.00%
+Sample Mismatches:
+Line 1, Byte 1: Ref=00 vs Meas=FF
+Line 1, Byte 2: Ref=82 vs Meas=FF
+Line 1, Byte 3: Ref=00 vs Meas=FF
+Line 1, Byte 4: Ref=82 vs Meas=FF
+Line 1, Byte 5: Ref=00 vs Meas=FF
