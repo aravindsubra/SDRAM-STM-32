@@ -1,0 +1,5 @@
+Bit Error Rate Analysis Results
+================================
+Data_2.txt: 8.6364e-01
+Data_3.txt: 8.4375e-01
+Data_4.txt: 8.7500e-01

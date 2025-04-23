@@ -1,0 +1,5 @@
+Bit Error Rate Results
+======================
+Error with Data_2.txt: Mismatched bytes in line: 00 82 00 82 00 82 00 82 00 82 00 82 vs FF FF FF FF FF FF FF FF FF FF FF FF FF FF C8 F3 FF FF FF FF FF FF FF FF FF FF DC BA FF FF DF E2
+Error with Data_3.txt: Mismatched bytes in line: 00 82 00 82 00 82 00 82 00 82 00 82 vs FF FF FF FF FF FF FF FF FF FF FF FF FF FF C8 F3 FF FF FF FF FF FF 4F E3 FF FF DC BA FF FF DF E2
+Error with Data_4.txt: Mismatched bytes in line: 00 82 00 82 00 82 00 82 00 82 00 82 vs FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
